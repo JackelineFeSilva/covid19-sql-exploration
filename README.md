@@ -16,7 +16,7 @@ The tutorial provides the original Excel files: [CovidDeaths.xlsx](https://githu
 [covid19_exploration.sql](covid19_exploration.sql) contains SQL Server queries for a `PortfolioProject` database with tables named `CovidDeaths` and `CovidVaccinations`.
 
 The script calculates a running sum of reported new vaccinations by location and date. 
-Please note that its ratio to population represents reported vaccination doses per 100 people, not the percentage of distinct people vaccinated and this repository contains practice queries, not a reproducible report or verified current COVID-19 findings.
+Please note that this repository contains practice queries, not a reproducible report or verified current COVID-19 findings.
 
 ## Tools and learning source
 
