@@ -11,7 +11,7 @@ This is a guided SQL practice project based on [Alex The Analyst's Data Analyst 
 
 ## File and setup
 
-[COVID project actual scripts SQLQuery.sql](COVID%20project%20actual%20scripts%20SQLQuery.sql) contains the queries. They use SQL Server syntax and refer to the `PortfolioProject` database with `CovidDeaths` and `CovidVaccinations` tables. The source datasets are not included in this repository; load the datasets linked in the tutorial into SQL Server before running the script. Run statements in sections, since it contains several separate explorations and a view definition.
+[covid19_exploration.sql](covid19_exploration.sql) contains the queries. They use SQL Server syntax and refer to the `PortfolioProject` database with `CovidDeaths` and `CovidVaccinations` tables. The source datasets are not included in this repository; load the datasets linked in the tutorial into SQL Server before running the script. Run statements in sections, since it contains several separate explorations and a view definition.
 
 This repository contains practice queries, not a reproducible report or verified current COVID-19 findings. In particular, the rolling vaccination calculations in the original script do not consistently order by date, so they should be reviewed before using their percentages as results.
 
