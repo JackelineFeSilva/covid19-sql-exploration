@@ -11,9 +11,9 @@ This is a guided SQL practice project based on [Alex The Analyst's Data Analyst 
 
 ## Data and setup
 
-The tutorial provides the original Excel files: [CovidDeaths.xlsx](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidDeaths.xlsx) and [CovidVaccinations.xlsx](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx). Both are availabe in the Alex The Analyst's repository.
+The tutorial provides the original Excel files: [CovidDeaths.xlsx](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidDeaths.xlsx) and [CovidVaccinations.xlsx](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx), and both are availabe in the Alex The Analyst's repository.
 
-[covid19_exploration.sql](covid19_exploration.sql) contains SQL Server queries for a `PortfolioProject` database with tables named `CovidDeaths` and `CovidVaccinations`. Import the two spreadsheets into those tables before running the queries. Run the script in sections; it includes several separate explorations, a temporary table and a view definition.
+[covid19_exploration.sql](covid19_exploration.sql) contains SQL Server queries for a `PortfolioProject` database with tables named `CovidDeaths` and `CovidVaccinations`.
 
 The script calculates a running sum of reported new vaccinations by location and date. Its ratio to population represents reported vaccination doses per 100 people, not the percentage of distinct people vaccinated. This repository contains practice queries, not a reproducible report or verified current COVID-19 findings.
 
