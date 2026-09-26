@@ -11,7 +11,7 @@ This is a guided SQL practice project based on [Alex The Analyst's Data Analyst 
 
 ## Data and setup
 
-The tutorial provides the original Excel files: [CovidDeaths.xlsx](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidDeaths.xlsx) and [CovidVaccinations.xlsx](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx). Download both from Alex The Analyst's repository. The data is not included in this repository.
+The tutorial provides the original Excel files: [CovidDeaths.xlsx](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidDeaths.xlsx) and [CovidVaccinations.xlsx](https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/CovidVaccinations.xlsx). Both are availabe in the Alex The Analyst's repository.
 
 [covid19_exploration.sql](covid19_exploration.sql) contains SQL Server queries for a `PortfolioProject` database with tables named `CovidDeaths` and `CovidVaccinations`. Import the two spreadsheets into those tables before running the queries. Run the script in sections; it includes several separate explorations, a temporary table and a view definition.
 
