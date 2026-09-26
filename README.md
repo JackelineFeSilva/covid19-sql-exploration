@@ -17,4 +17,4 @@ The script calculates a running sum of reported new vaccinations by location and
 
 ## Tools and learning source
 
-Microsoft SQL Server / T-SQL. Guided practice following [Alex The Analyst's SQL data exploration video](https://www.youtube.com/watch?v=qfyynHBFOsM).
+Excel and Microsoft SQL Server.
